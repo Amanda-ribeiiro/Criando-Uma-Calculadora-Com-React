@@ -1,3 +1,24 @@
-# Criando-Uma-Calculadora-Com-React
-DESCRIÇÃO
-Neste Desafio de Projeto vamos criar juntos uma calculadora utilizando React. Você irá desenvolver, na prática, todos os componentes e a interface da calculadora, aplicando os conceitos aprendidos durante o módulo.
+
+# [Orange-Tech+](https://web.dio.me/track/orange-tech) 
+
+## MODULO 5: COMEÇANDO NA BIBLIOTE REACT
+### 9- Criando Uma Calculadora Com React
+#### Professor: Pablo Henrique (Desenvolvedor Full Stack) [LinkedIn](https://www.linkedin.com/in/pablohdev/) - [Instagram](https://www.instagram.com/pablohdev/)
+---
+Com ela é possivel buscar um repositório público entrando com o nome do usuário e o nome do repositório:
+![gif do projeto](https://github.com/Amanda-ribeiiro/Criando-Uma-Calculadora-Com-React/blob/main/calculadora/src/assets/video.gif)
+
+
+
+🛠 Tecnologias que foram utilizadas para o desenvolvimento:
+- [React](https://pt-br.reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [StyledComponents](https://styled-components.com/)
+- [yarn](https://yarnpkg.com/getting-started)
+
+
+
+
+#### [Entenda o Desafio](https://github.com/digitalinnovationone/trilha-react-desafio01-calculadora)
+
+[Certificado](https://hermes.digitalinnovation.one/certificates/7D101476.pdf)

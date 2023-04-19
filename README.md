@@ -1,8 +1,8 @@
 
 # [Orange-Tech+](https://web.dio.me/track/orange-tech) 
 
-## [MODULO 5: COMEÇANDO NA BIBLIOTE REACT](https://web.dio.me/project/calculadora/learning/1a2abe59-0b6c-4a90-b291-067eb708c5c1?back=/track/orange-tech&tab=undefined&moduleId=undefined)
-### Criando Uma Calculadora Com React  :calling:
+### [MODULO 5: COMEÇANDO NA BIBLIOTE REACT](https://web.dio.me/project/calculadora/learning/1a2abe59-0b6c-4a90-b291-067eb708c5c1?back=/track/orange-tech&tab=undefined&moduleId=undefined)
+### Criando uma Calculadora com React  :calling:
 #### Dev teacher: [Pablo Henrique](https://www.linkedin.com/in/pablohdev/) 
 ----
 
